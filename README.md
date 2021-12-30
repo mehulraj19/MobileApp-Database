@@ -5,7 +5,8 @@ Three databases to be worked on:
   <li>ROOM Database</li>
   <li>Realtime Database</li>
 </ol>
-All these implementations of the App follows MVC Architecture.
+
+> All these implementations of the App follows MVC Architecture.
 
 ### SQLite Database
 This will help us to use SQL for the CRUD operations. The ContactManager.zip deals with this database management system. Functionalities that have been implemented are:
@@ -21,4 +22,4 @@ This will help us to use SQL for the CRUD operations. The ContactManager.zip dea
 </ul>
 Also we got to use the ContentValues() and Cursor() for the implementations of above mentioned functionalities.
 
-#### ROOM and Realtime database to be implemented....
+> ROOM and Realtime database to be implemented....
