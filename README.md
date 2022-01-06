@@ -24,6 +24,8 @@ Also we got to use the ContentValues() and Cursor() for the implementations of a
 
 ## ROOM Database
 This is the library provided by the Android Studio. This also uses SQL but makes our life easier by providing simple ways to implement the whole database management system.
+The ContactRoomVersion2.0.zip folder has been implemented using ROOM Database.
+<br/>
 App Development:
 <ul>
   <li>Backend:</li>
